@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnknownSMP-kVMK.aternos.me",
+    "ip": "UnknownSMP-KVMK.aternos.me",
     "port": 28980,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
